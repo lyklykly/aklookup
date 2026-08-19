@@ -6,6 +6,7 @@
 - **정호 리딩** (Daily Reading Comprehension, EMC 3454) — 주차(Week) · 일차(Day)로 조회
 - **Vocabulary Workshop Level A** — 유닛(Unit) · 유형(Category) · 문제 번호로 조회
 - **Vocabulary Workshop Level Green** — 유닛(Unit) · 유형(Category) · 문제 번호로 조회
+- **Nonfiction Reading Practice, Grade 2** (EMC 3313) — 페이지(Page)로 조회
 
 모든 정답 데이터는 제공된 원본 PDF/엑셀 정답지에서 추출해 파일 안에 내장되어 있으며,
 인터넷 연결 없이도 (더블클릭으로) 그대로 열립니다.
@@ -35,5 +36,6 @@
 
 - Daily Reading Comprehension (EMC 3454), © Evan-Moor Corp. — 제공된 답지 PDF에서 추출 후 원본 이미지와 대조 검증
 - Vocabulary Workshop Level A / Level Green 정답 엑셀 파일에서 추출
+- Nonfiction Reading Practice, Grade 2 (EMC 3313), © Evan-Moor Corp. — 제공된 답지 PDF에서 추출 후 원본 이미지와 대조 검증
 
 개인 학습 용도로 제작된 도구이며, 원본 교재의 저작권은 각 발행사에 있습니다.
